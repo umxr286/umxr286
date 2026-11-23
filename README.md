@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I Have completed my bachelors with honours in cyber security and have graduated with a 2:1 in summer 2025, and I'm deeply committed to mastering the art of digital defense. I believe in truthfully acknowledging where I am — because growth starts with honesty.
+I Have completed my bachelors with honours in cyber security and have graduated with a 2:1 in summer 2025. With the work I do, I am a cyber security analyst/Incident Responder by profession and a network technician/administrator by skill. No matter the problem, I am truly committed to a practical understanding of all that I learn.
 
 ---
 
