@@ -79,6 +79,8 @@ Participated in NASA’s global hackathon focused on climate change awareness.
 
 ## 📜 Certifications
 
+- ✅ **CompTIA: Security+ ** (October 2026)
+- ✅ **ISC2: Certified in Cyber Security ** (December 2026)
 - ✅ **CCST: Cybersecurity** (May 2025)  
 - ✅ **CCST: IT Support** (May 2025)  
 - ✅ **CCST: Networking** (May 2025)  
