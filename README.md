@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I Have completed my bachelors in cyber security and have graduated with a 2:1 this summer 2025, and I'm deeply committed to mastering the art of digital defense. I believe in truthfully acknowledging where I am — because growth starts with honesty.
+I Have completed my bachelors with honours in cyber security and have graduated with a 2:1 in summer 2025, and I'm deeply committed to mastering the art of digital defense. I believe in truthfully acknowledging where I am — because growth starts with honesty.
 
 ---
 
