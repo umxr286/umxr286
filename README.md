@@ -107,7 +107,7 @@ Participated in NASA’s global hackathon focused on climate change awareness.
 - 📁 Building my first CVE PoC repository  
 - 🧪 Practicing privilege escalation and reverse shells  
 - 🛠️ Automating recon with Python  
-- 📚 Studying advanced modules on Hack The Box Academy
+- 📚 Studying for the CompTIA Network+
 
 ---
 
